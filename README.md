@@ -1,4 +1,4 @@
-# flask-vue-xcx-
+# flask-vue-xcx-mysql
 电商齐全系统包含 flask+pc端商家管理后台+小程序客户端
 
 启动项目
