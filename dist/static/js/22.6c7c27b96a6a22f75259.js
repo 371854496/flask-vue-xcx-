@@ -1,0 +1,2 @@
+webpackJsonp([22],{raZX:function(e,t){},yRLA:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var a=n("VU/8")({name:"coupon-edit"},r,!1,function(e){n("raZX")},"data-v-5dd61651",null);t.default=a.exports}});
+//# sourceMappingURL=22.6c7c27b96a6a22f75259.js.map
