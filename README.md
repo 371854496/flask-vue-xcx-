@@ -7,3 +7,6 @@
     2.安装依然包 pip install -r requirements.txt
     3.在库中导入data.sql或直接运行app.py
     4.打开小程序则需要你有appid
+
+项目介绍和截图
+https://segmentfault.com/a/1190000019819311
