@@ -15,6 +15,6 @@ PyMySQL==0.9.3
 requests==2.22.0
 six==1.12.0
 SQLAlchemy==1.3.5
-urllib3==1.25.3
+urllib3==1.25.8
 Werkzeug==0.15.4
 WSGIserver==1.3
