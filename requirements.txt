@@ -3,7 +3,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gevent==1.4.0
 greenlet==0.4.15
 idna==2.8
